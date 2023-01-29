@@ -1,5 +1,5 @@
 # Weather-App
-This is a weather app. Tools that used in this app are JavaScript, React.js, CSS. I `ve used axios to get the data from weather API.
+This is a weather app.<br> Tools that used in this app are JavaScript, React.js, CSS.<br> I `ve used axios to get the data from weather API.
 
 # Getting Started with Create React App
 This project was bootstrapped with Create React App.
